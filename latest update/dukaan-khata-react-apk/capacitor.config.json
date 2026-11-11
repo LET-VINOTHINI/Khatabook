@@ -1,0 +1,6 @@
+{
+  "appId": "com.logicenvision.dukaankhata",
+  "appName": "Dukaan Khata",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

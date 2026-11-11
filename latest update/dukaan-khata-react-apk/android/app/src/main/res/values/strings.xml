@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dukaan Khata</string>
+    <string name="title_activity_main">Dukaan Khata</string>
+    <string name="package_name">com.logicenvision.dukaankhata</string>
+    <string name="custom_url_scheme">com.logicenvision.dukaankhata</string>
+</resources>
